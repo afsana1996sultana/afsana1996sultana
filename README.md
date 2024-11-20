@@ -18,10 +18,6 @@ Skills: PHP / Laravel / MySql / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsana1996sultana)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=afsana1996sultana&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/afsana1996sultana/contributions?format=svg&private=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/afsana1996sultana)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=afsana1996sultana)  
